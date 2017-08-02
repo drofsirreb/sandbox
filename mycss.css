@@ -1,0 +1,42 @@
+
+      body {
+         color: green;
+         font-family: "Courier New", Courier, monospace;
+      }
+
+/* comment */
+h1 { color: orange; }
+
+/* comment */
+p {
+   color: red;
+   font-size:130%;
+}
+
+
+
+/* comment */
+#innner {
+	color: white;
+	background-color:	black
+}
+
+
+#intro {
+   color: white;
+   background-color: gray;
+}
+
+/* comment */
+.first {
+	color:	blue;
+	font-size: 200%;
+	}
+
+/* comment */
+.second {
+	color:	red;
+	font-size: 200%;
+	}
+
+
